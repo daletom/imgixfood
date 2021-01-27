@@ -1,0 +1,138 @@
+{
+    "data": [
+      {
+        "attributes": {
+          "analyzed_content_warnings": true,
+          "analyzed_faces": false,
+          "analyzed_tags": true,
+          "categories": [
+            "imgixfood"
+          ],
+          "color_model": "RGB",
+          "color_profile": null,
+          "colors": {
+            "dominant_colors": {
+              "#655a52": 0.03286135569214821,
+              "#665b46": 0.11581120640039444,
+              "#7d756d": 0.09722714126110077,
+              "#80725c": 0.2438938021659851,
+              "#9e9893": 0.04212389513850212,
+              "#aa9879": 0.11528023332357407,
+              "#b49b6d": 0.005781711079180241,
+              "#ccc5c1": 0.06749262660741806,
+              "#cfbca0": 0.08749262243509293,
+              "#e4dedd": 0.04967551678419113
+            }
+          },
+          "content_type": "image/jpeg",
+          "custom_fields": {
+            "Chef": "Cindy",
+            "Name": "Vegan Meringue Cookies",
+            "Type": "Cookie"
+          },
+          "date_created": 1611690056,
+          "date_modified": 1611690139,
+          "description": null,
+          "dpi_height": 72,
+          "dpi_width": 72,
+          "face_count": null,
+          "file_size": 940154,
+          "has_frames": false,
+          "media_height": 4032,
+          "media_kind": "IMAGE",
+          "media_width": 3024,
+          "name": null,
+          "origin_path": "/food/veganmeringuecookies.jpg",
+          "source_id": "55e4d9390d42e03905934ad4",
+          "tags": {
+            "Baked goods": 0.8632051944732666,
+            "Cuisine": 0.8725218772888184,
+            "Dessert": 0.7455840706825256,
+            "Dish": 0.8522420525550842,
+            "Finger food": 0.7459254860877991,
+            "Food": 0.9869265556335449,
+            "Ingredient": 0.9153858423233032,
+            "Produce": 0.7226331233978271,
+            "Recipe": 0.8760708570480347,
+            "Sweetness": 0.7303503751754761
+          },
+          "uploaded_by": "5629342b0d42e01151e822f6",
+          "uploaded_by_api": false,
+          "warning_adult": 1,
+          "warning_medical": 2,
+          "warning_racy": 1,
+          "warning_spoof": 1,
+          "warning_violence": 1
+        },
+        "id": "55e4d9390d42e03905934ad4/food/veganmeringuecookies.jpg",
+        "type": "assets"
+      },
+      {
+        "attributes": {
+          "analyzed_content_warnings": true,
+          "analyzed_faces": false,
+          "analyzed_tags": true,
+          "categories": [
+            "imgixfood"
+          ],
+          "color_model": "RGB",
+          "color_profile": null,
+          "colors": {
+            "dominant_colors": {
+              "#495a21": 0.014513274654746056,
+              "#7a461c": 0.013746312819421291,
+              "#933b19": 0.01368731539696455,
+              "#9c3b0b": 0.0032448377460241318,
+              "#a62e0a": 0.007669616490602493,
+              "#b55536": 0.008613569661974907,
+              "#c44b31": 0.00407079653814435,
+              "#c74722": 0.01032448373734951,
+              "#cdbf9e": 0.10867256671190262,
+              "#edb447": 0.0007669616607017815
+            }
+          },
+          "content_type": "image/jpeg",
+          "custom_fields": {
+            "Chef": "Nick3",
+            "Name": "Soyrizo Queso Fundido",
+            "Type": "Dip"
+          },
+          "date_created": 1611688260,
+          "date_modified": 1611688472,
+          "description": null,
+          "dpi_height": null,
+          "dpi_width": null,
+          "face_count": null,
+          "file_size": 1220152,
+          "has_frames": false,
+          "media_height": 4032,
+          "media_kind": "IMAGE",
+          "media_width": 3024,
+          "name": null,
+          "origin_path": "/food/soyrizo.jpg",
+          "source_id": "55e4d9390d42e03905934ad4",
+          "tags": {
+            "Basmati": 0.9055564999580383,
+            "Cuisine": 0.8503058552742004,
+            "Fines herbes": 0.8586311340332031,
+            "Food": 0.9772530198097229,
+            "Ingredient": 0.9045376777648926,
+            "Jasmine rice": 0.8736817836761475,
+            "Recipe": 0.8804746270179749,
+            "Rice": 0.8914691805839539,
+            "Staple food": 0.8731602430343628,
+            "White rice": 0.9476537704467773
+          },
+          "uploaded_by": "5629342b0d42e01151e822f6",
+          "uploaded_by_api": false,
+          "warning_adult": 1,
+          "warning_medical": 1,
+          "warning_racy": 1,
+          "warning_spoof": 1,
+          "warning_violence": 1
+        },
+        "id": "55e4d9390d42e03905934ad4/food/soyrizo.jpg",
+        "type": "assets"
+      }
+    ]
+  }
